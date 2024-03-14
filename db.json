@@ -1,0 +1,73 @@
+{
+  "cabeceiras": [
+    {
+      "id": "1",
+      "title": "Poah",
+      "price": 1000,
+      "images": [
+        "https://images.tcdn.com.br/img/img_prod/1045873/180_cabeceira_napole_140_tca_65_linho_bege_perfan_moveis_8427_1_72fcada2fcb18d3da4d4393b957327c6.jpg",
+        "https://images.tcdn.com.br/img/img_prod/1045873/180_cabeceira_napole_140_tca_65_linho_bege_perfan_moveis_8427_1_72fcada2fcb18d3da4d4393b957327c6.jpg",
+        "https://images.tcdn.com.br/img/img_prod/1045873/180_cabeceira_napole_140_tca_65_linho_bege_perfan_moveis_8427_1_72fcada2fcb18d3da4d4393b957327c6.jpg"
+      ],
+      "description": "lorem ipsum dolor sit amet"
+    },
+    {
+      "id": "2",
+      "title": "Paris",
+      "price": 2000,
+      "images": [
+        "https://images.tcdn.com.br/img/img_prod/1045873/180_cabeceira_napole_140_tca_65_linho_bege_perfan_moveis_8427_1_72fcada2fcb18d3da4d4393b957327c6.jpg",
+        "https://images.tcdn.com.br/img/img_prod/1045873/180_cabeceira_napole_140_tca_65_linho_bege_perfan_moveis_8427_1_72fcada2fcb18d3da4d4393b957327c6.jpg",
+        "https://images.tcdn.com.br/img/img_prod/1045873/180_cabeceira_napole_140_tca_65_linho_bege_perfan_moveis_8427_1_72fcada2fcb18d3da4d4393b957327c6.jpg"
+      ],
+      "description": "lorem ipsum dolor sit amet"
+    },
+    {
+      "id": "3",
+      "title": "Kelly",
+      "price": 3000,
+      "images": [
+        "https://images.tcdn.com.br/img/img_prod/1045873/180_cabeceira_napole_140_tca_65_linho_bege_perfan_moveis_8427_1_72fcada2fcb18d3da4d4393b957327c6.jpg",
+        "https://images.tcdn.com.br/img/img_prod/1045873/180_cabeceira_napole_140_tca_65_linho_bege_perfan_moveis_8427_1_72fcada2fcb18d3da4d4393b957327c6.jpg",
+        "https://images.tcdn.com.br/img/img_prod/1045873/180_cabeceira_napole_140_tca_65_linho_bege_perfan_moveis_8427_1_72fcada2fcb18d3da4d4393b957327c6.jpg"
+      ],
+      "description": "lorem ipsum dolor sit amet"
+    }
+  ],
+  "poltronas": [
+    {
+      "id": "1",
+      "title": "Havanna",
+      "price": 1000,
+      "images": [
+        "https://a-static.mlcdn.com.br/450x450/kit-2-poltronas-decorativas-para-sala-cadeira-reforcada-shine-madeira-macica-suede-clique-decore/cliquedecor/14984537232/d857271123461c311c40f9cf9a7a4a22.jpeg",
+        "https://a-static.mlcdn.com.br/450x450/kit-2-poltronas-decorativas-para-sala-cadeira-reforcada-shine-madeira-macica-suede-clique-decore/cliquedecor/14984537232/d857271123461c311c40f9cf9a7a4a22.jpeg",
+        "https://a-static.mlcdn.com.br/450x450/kit-2-poltronas-decorativas-para-sala-cadeira-reforcada-shine-madeira-macica-suede-clique-decore/cliquedecor/14984537232/d857271123461c311c40f9cf9a7a4a22.jpeg"
+      ],
+      "description": "lorem ipsum dolor sit amet"
+    },
+    {
+      "id": "2",
+      "title": "Dubai",
+      "price": 2000,
+      "images": [
+        "https://a-static.mlcdn.com.br/450x450/kit-2-poltronas-decorativas-para-sala-cadeira-reforcada-shine-madeira-macica-suede-clique-decore/cliquedecor/14984537232/d857271123461c311c40f9cf9a7a4a22.jpeg",
+        "https://a-static.mlcdn.com.br/450x450/kit-2-poltronas-decorativas-para-sala-cadeira-reforcada-shine-madeira-macica-suede-clique-decore/cliquedecor/14984537232/d857271123461c311c40f9cf9a7a4a22.jpeg",
+        "https://a-static.mlcdn.com.br/450x450/kit-2-poltronas-decorativas-para-sala-cadeira-reforcada-shine-madeira-macica-suede-clique-decore/cliquedecor/14984537232/d857271123461c311c40f9cf9a7a4a22.jpeg"
+      ],
+      "description": "lorem ipsum dolor sit amet"
+    },
+    {
+      "id": "3",
+      "title": "Web",
+      "price": 3000,
+      "images": [
+        "https://a-static.mlcdn.com.br/450x450/kit-2-poltronas-decorativas-para-sala-cadeira-reforcada-shine-madeira-macica-suede-clique-decore/cliquedecor/14984537232/d857271123461c311c40f9cf9a7a4a22.jpeg",
+        "https://a-static.mlcdn.com.br/450x450/kit-2-poltronas-decorativas-para-sala-cadeira-reforcada-shine-madeira-macica-suede-clique-decore/cliquedecor/14984537232/d857271123461c311c40f9cf9a7a4a22.jpeg",
+        "https://a-static.mlcdn.com.br/450x450/kit-2-poltronas-decorativas-para-sala-cadeira-reforcada-shine-madeira-macica-suede-clique-decore/cliquedecor/14984537232/d857271123461c311c40f9cf9a7a4a22.jpeg",
+        "https://a-static.mlcdn.com.br/450x450/kit-2-poltronas-decorativas-para-sala-cadeira-reforcada-shine-madeira-macica-suede-clique-decore/cliquedecor/14984537232/d857271123461c311c40f9cf9a7a4a22.jpeg"
+      ],
+      "description": "lorem ipsum dolor sit amet"
+    }
+  ]
+}
